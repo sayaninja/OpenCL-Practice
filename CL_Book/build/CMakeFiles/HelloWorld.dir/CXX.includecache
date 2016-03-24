@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhansaya/Documents/REU/GPU/HelloWorld Project/CL_Book/HelloWorld.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+OpenCL/cl.h
+-
+CL/cl.h
+-
+
